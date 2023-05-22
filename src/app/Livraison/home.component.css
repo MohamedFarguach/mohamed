@@ -1,0 +1,6 @@
+td{
+    border-bottom: 1px solid navy;
+}
+.pagination::ng-deep .ngx-pagination .current {
+  background-color: red;
+}

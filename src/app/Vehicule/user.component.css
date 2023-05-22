@@ -1,0 +1,9 @@
+th{
+    color: black;
+}
+.align-items-end {
+    align-items: flex-end!important;
+}
+.pagination::ng-deep .ngx-pagination .current {
+  background-color: red;
+}
